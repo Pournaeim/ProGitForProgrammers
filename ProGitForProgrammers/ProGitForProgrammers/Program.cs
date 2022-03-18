@@ -14,5 +14,8 @@ namespace ProGitForProgrammers
             Console.WriteLine("I just added this in the command line repo");
 			Console.WriteLine("This line added to show the staging area");
          }
+			Console.WriteLine("I just added this in the command line repo");
+			Console.WriteLine("This line added to show the staging area");}
+        }
     }
 }
